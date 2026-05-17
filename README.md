@@ -32,8 +32,8 @@ Sono una studentessa di informatica con un percorso che unisce la solida base te
 ---
 
 ## 📊 Le mie Statistiche GitHub
-![Le mie statistiche](https://github-readme-stats-git-masterhstwr.vercel.app/api?username=nemayansi&show_icons=true&theme=tokyonight) 
-![I linguaggi più usati](https://github-readme-stats-git-masterhstwr.vercel.app/api/top-langs/?username=nemayansi&layout=compact&theme=tokyonight)
+![Le mie statistiche](https://github-readme-stats-eight-theta.vercel.app/api?username=nemayansi&show_icons=true&theme=tokyonight)
+![I linguaggi più usati](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nemayansi&layout=compact&theme=tokyonight)
 
 ---
 
